@@ -2,7 +2,10 @@
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
- 
+## NAME:PAVITHRA E
+## REF NO:24010962
+## DATE:4/12/2024
+
 ## REQUIREMENTS
  1. Autodesk fusion 360
  2. Windows 10
@@ -36,7 +39,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![edm2 Drawing v0 pdf](https://github.com/user-attachments/assets/6aa55056-4ddc-4ad5-8cc7-050af1b36a04)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
